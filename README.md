@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://benjaminvillatte.github.io/fem-stats-preview-card-component/](https://benjaminvillatte.github.io/fem-stats-preview-card-component/)
 
 
 ## Front-end Style Guide
